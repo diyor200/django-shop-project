@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="89af251c-5625-4225-827c-9122f0c10e25" name="Changes" comment="created base product catalog" />
+    <list default="true" id="89af251c-5625-4225-827c-9122f0c10e25" name="Changes" comment="created base product catalog">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,7 +78,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1677073526366</updated>
-      <workItem from="1677073528878" duration="10230000" />
+      <workItem from="1677073528878" duration="11000000" />
+      <workItem from="1677126346202" duration="578000" />
     </task>
     <task id="LOCAL-00001" summary="created base product catalog">
       <created>1677086888377</created>
